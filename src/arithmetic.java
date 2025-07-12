@@ -17,7 +17,7 @@ public class arithmetic {
         int b = 2;
 
         //a = a + b is the same AS- a
-        a += b; //add then assign
+        a += b; //add then assign, research difference of += and =+
         /*
         a -= b;
         a *= b;
